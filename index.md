@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Musy
 
-You can use the [editor on GitHub](https://github.com/j-albarran/jalbarran.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+With Musy you can create music on the fly with a programming language that's versatile and allows you to create songs from notes and phrases. You can also export your created songs to MIDI files and listen to them from anywhere!
 
 ### Markdown
 
