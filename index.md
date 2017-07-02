@@ -1,34 +1,29 @@
 ## Musy
 
-With Musy you can create music on the fly with a programming language that's versatile and allows you to create songs from notes and phrases. You can also export your created songs to MIDI files and listen to them from anywhere!
+With Musy you can create music on the fly with a programming language that's versatile and allows you to create songs from notes and phrases. You can also export your created songs to MIDI files and listen to them from anywhere! In this page you will find the source code as well as a language tutorial and a technical reference manual. Enjoy!
 
-### Markdown
+### Our Motivation
+
+Music is something that can be created with almost anything and with a good ear. These things vary from actual musical instruments to something as simple as a table top. However, not everybody has the know-how of using a musical instrument or creating one. Some of these people may have studied music and may know how to create music but wielding an instrument is not the same thing. You can have the knowledge but if you don’t have the talent or abilities, you may never be able to create music on your own. That is what motivated us to develop Musy.
+
+### Language Features
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+New Song : mySong
+New Phrase : part1
+Add Note A4 1/2 To part1
+Add Note B6 1/1 To part1
+Add Note C3 1/4 To part1
+New Phrase : part2
+Add Note E7 1/4 To part2
+Add Note F2 1/4 To part2
+Add Note A5 1/4 To part2
+Tempo : 300
+Play : mySong
+Compose : mySong
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/j-albarran/jalbarran.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
